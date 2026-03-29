@@ -1,0 +1,9 @@
+{
+  "cookies_file": "D:\\Administrator\\Downloads\\cookies.txt",
+  "output_folder": "D:\\Administrator\\Desktop\\video\\audio",
+  "concurrent_downloads": 2,
+  "default_format": "mp3",
+  "default_quality": "320",
+  "notifications": false,
+  "search_source": "ytm"
+}
